@@ -93,14 +93,14 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = Centre for Human Psychopharmacology, city = "Swinburne University", region = "MELB", postcode = "3122", country = "Australia", country_code = "AU"}
+address = {street = "", city = "Swinburne University", region = "MELB", postcode = "3122", country = "Australia", country_code = "AU"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "37.4275", longitude = "-122.1697"}
+# coordinates = {latitude = "37.4275", longitude = "-122.1697"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
+# directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
@@ -250,7 +250,7 @@ plugins_js  = []
 ############################
 ## Maps
 ############################
-[map]
+# [map]
   # To show your address on a map in the Contact widget, enter your latitude and longitude (above)
   # and choose a map provider below.
   #
@@ -265,9 +265,9 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 2
-  api_key = ""
-  zoom = 15
+  # engine = 2
+ # api_key = ""
+ # zoom = 15
 
 ############################
 ## Marketing
