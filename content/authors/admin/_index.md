@@ -70,6 +70,6 @@ email: ""
 # - Visitors
 ---
 
-Hello, I am currently completing my PhD at The Centre for Human Psychopharmacology at Swinburne University.
+I am currently completing my PhD at The Centre for Human Psychopharmacology at Swinburne University.
 
 
