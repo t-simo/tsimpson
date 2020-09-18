@@ -14,7 +14,7 @@ role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Swinburne University
+- name: Swinburne University of Technology
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -22,7 +22,7 @@ bio: My research interests include ageing well, neuroimaging and mental health.
 
 interests:
 - Neuroimaging
-- Ageing Well
+- Interventions to Support Healthy Ageing
 - Mental Health
 
 education:
@@ -31,10 +31,10 @@ education:
     institution: Swinburne University
     year: Current
   - course: Postgraduate Diploma of Psychology
-    institution: Swinburne University
+    institution: Swinburne University of Technology
     year: 2009
   - course: Bachelor of Science, Psychology and Psychophysiology
-    institution: Swinburne University
+    institution: Swinburne University of Technology
     year: 2007
 
 # Social/Academic Networking
@@ -70,6 +70,6 @@ email: ""
 # - Visitors
 ---
 
-I am currently completing my PhD at The Centre for Human Psychopharmacology at Swinburne University.
+Welcome! I am currently completing my PhD with The Centre for Human Psychopharmacology at Swinburne University. I have been investigating oxidative stress in older adults and the relationship with cognition. Firstly, to see whether over the counter herbal supplements may increase glutathione within the human brain, secondly to observe any cognitive changes over time, and lastly to investigate the relationship between any change in glutathione and any changes in cognitive ability. My study involved magnetic resonance spectrosocpy to measure the brain's neurochemical changes.
 
 
