@@ -70,6 +70,7 @@ email: ""
 # - Visitors
 ---
 
-Welcome! I am currently completing my PhD with The Centre for Human Psychopharmacology at Swinburne University. I have been investigating oxidative stress in older adults and the relationship with cognition. Firstly, to see whether over the counter herbal supplements may increase glutathione within the human brain, secondly to observe any cognitive changes over time, and lastly to investigate the relationship between any change in glutathione and any changes in cognitive ability. My study involved magnetic resonance spectrosocpy to measure the brain's neurochemical changes.
+Welcome! 
+I am currently completing my PhD with The Centre for Human Psychopharmacology at Swinburne University. I have been investigating oxidative stress in older adults and the relationship with cognition. Firstly, to see whether over the counter herbal supplements increase glutathione within the human brain, secondly to observe cognitive changes over time, and lastly to investigate the relationship between glutathione and cognitive ability. My study involved magnetic resonance spectrosocpy to measure the brain's neurochemical changes.
 
 
