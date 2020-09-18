@@ -48,9 +48,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/tamsimpson_
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com.au/citations?user=24wHgXwAAAAJ&hl=en&oi=sra
 # - icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com.au/citations?user=24wHgXwAAAAJ&hl=en&oi=sra
@@ -79,3 +79,5 @@ Welcome!
 I am currently completing my PhD with The Centre for Human Psychopharmacology at Swinburne University. I have been investigating oxidative stress in older adults and its relationship with cognition. Firstly, to see whether over the counter herbal supplements increase glutathione within the human brain, secondly to observe cognitive changes over time, and lastly to investigate the relationship between glutathione and cognitive ability. My study involved magnetic resonance spectrosocpy to measure the brain's neurochemical changes.
 
 {{< icon name="download" pack="fas" >}} 
+
+{{< icon name="download" pack="ai" >}}
