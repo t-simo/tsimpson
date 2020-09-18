@@ -21,7 +21,7 @@ organizations:
 bio: My research interests include ageing well, neuroimaging and mental health.
 
 interests:
-- Neuroimaging
+- Brain Neurochemisity in Ageing and Psychiatric Illness
 - Interventions to Support Healthy Ageing
 - Mental Health
 
