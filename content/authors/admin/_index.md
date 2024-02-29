@@ -57,6 +57,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Tamara_Simpson2
+- icon: instagram
+  icon_pack: ai
+  link: https://www.instagram.com/dr.tamara.simpson
 # - icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com.au/citations?user=24wHgXwAAAAJ&hl=en&oi=sra
