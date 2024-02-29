@@ -58,13 +58,11 @@ social:
   icon_pack: ai
   link: https://www.researchgate.net/profile/Tamara_Simpson2
 - icon: instagram
-  icon: fab fa-instagram
+  icon_pack: fab fa-instagram
   link: https://www.instagram.com/dr.tamara.simpson
 # - icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com.au/citations?user=24wHgXwAAAAJ&hl=en&oi=sra
-# - icon: fab fa-instagram
-#  rel="stylesheet" href="https:https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha384-GLhlTQ8iN17HTiYO9jPH5rPugNfkjJjkR1i6LrO1uU8I5Pvazkf/CfX0HH70u" crossorigin="anonymous">
 # - icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
