@@ -58,7 +58,7 @@ social:
   icon_pack: ai
   link: https://www.researchgate.net/profile/Tamara_Simpson2
 - icon: instagram
-  icon_pack: fab fa-instagram
+  icon: fab fa-instagram
   link: https://www.instagram.com/dr.tamara.simpson
 # - icon: google-scholar
 #  icon_pack: ai
