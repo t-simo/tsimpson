@@ -18,18 +18,18 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include ageing well, neuroimaging and mental health.
+bio: My research interests include brain health for ageing well, neuroimaging and mental health.
 
 interests:
-- Brain Neurochemisity in Ageing and Psychiatric Illness
-- Interventions to Support Healthy Ageing
-- Mental Health
+- Brain neurochemisity in ageing and psychiatric illness
+- Interventions to support brain health and healthy ageing
+- Mental health
 
 education:
   courses:
   - course: PhD Candidate
     institution: Swinburne University
-    year: Current
+    year: Submitted for review, March 2023
   - course: Postgraduate Diploma of Psychology
     institution: Swinburne University of Technology
     year: 2009
