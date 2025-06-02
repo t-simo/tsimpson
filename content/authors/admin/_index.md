@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate
+role: Adjunct Research Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -27,9 +27,9 @@ interests:
 
 education:
   courses:
-  - course: PhD Candidate
+  - course: Doctor of Philosophy
     institution: Swinburne University
-    year: Submitted for review, March 2023
+    year: 2024
   - course: Postgraduate Diploma of Psychology
     institution: Swinburne University of Technology
     year: 2009
@@ -59,7 +59,7 @@ social:
   link: https://www.researchgate.net/profile/Tamara_Simpson2
 - icon: instagram
   icon_pack: fab fa-instagram
-  link: https://www.instagram.com/dr.tamara.simpson
+  link: https://www.instagram.com/drtamarasimpson
 # - icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com.au/citations?user=24wHgXwAAAAJ&hl=en&oi=sra
@@ -85,4 +85,4 @@ email: ""
 
 Welcome! 
 
-I am currently completing my PhD with The Centre for Human Psychopharmacology at Swinburne University. I have been investigating oxidative stress in older adults and its relationship with cognition. Firstly, to see whether over the counter herbal supplements increase glutathione within the human brain, secondly to observe cognitive changes over time, and lastly to investigate the relationship between glutathione and cognitive ability. My study involved magnetic resonance spectrosocpy to measure the brain's neurochemical changes.
+I completed my PhD at The Centre for Human Psychopharmacology at Swinburne University. I have been investigating oxidative stress in older adults and its relationship with cognitive performance. Firstly, to see whether over the counter herbal supplements increase glutathione within the human brain, secondly to observe cognitive changes over time, and lastly to investigate the relationship between glutathione and cognitive ability. My study involved magnetic resonance spectrosocpy to measure the brain's neurochemical changes.
